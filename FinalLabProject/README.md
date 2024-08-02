@@ -3,7 +3,7 @@
 **Date**: August 2, 2024
 
 ## Overview
-This project is part of Lab 8 where the goal is to define and solve a machine learning problem. The chosen problem is predicting "Healthy Life Expectancy at Birth" using various socio-economic indicators from the World Happiness Report 2018 dataset.
+This project is part of Lab 8 where the goal is to define and solve a machine learning problem. The problem I chose is predicting "Healthy Life Expectancy at Birth" using various socio-economic indicators from the World Happiness Report 2018 dataset.
 
 ## Key Tasks:
 1. **Data Preparation**: Loaded and cleaned the World Happiness Report dataset, addressing missing values and scaling features.
